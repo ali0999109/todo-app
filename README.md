@@ -1,9 +1,16 @@
 # To-Do App
 
-
-![image](https://github.com/ali0999109/todo-app/assets/145396907/4309c3f7-2550-4659-99db-23d8bbed5077)
+- Clicking on add will add an item
+- Clicking on an item and selecting remove will remove the item
+- Clicking on an item and selecting edit will allow you to replace the item with another one
+----------------------------------------------------
+  
+![image](https://github.com/ali0999109/todo-app/assets/145396907/3f64c1f1-7cfa-49f1-ab2b-fcc24c4969c9)
 
 # Code
+
+
+------------------------------------------------------------------
 
 ```python import functions
 import time
